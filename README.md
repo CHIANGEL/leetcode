@@ -1,6 +1,6 @@
 LeetCode
 ========
-每天坚持更新_(:з」∠)_
+每天坚持更新_(:з」∠)_从头刷起
 
 ### LeetCode Algorithm
 
