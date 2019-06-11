@@ -13,3 +13,5 @@ LeetCode
 |5|[Longest Palindromic Substring - 最长回文子串](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](./algorithms/cpp/5_LongestPalindromicSubstring/)|Medium|
 |6|[Zig Zag Conversion - Z字形变换](https://leetcode.com/problems/zigzag-conversion/)|[C++](./algorithms/cpp/6_ZigZagConversion/)|Medium|
 |7|[Reverse Integer - 整数反转](https://leetcode.com/problems/reverse-integer/)|[C++](./algorithms/cpp/7_ReverseInteger/)|Easy|
+|8|[String to Integer (atoi) - 字符串转整数](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](./algorithms/cpp/8_StringtoInteger%20(atoi)/)|Medium|
+
