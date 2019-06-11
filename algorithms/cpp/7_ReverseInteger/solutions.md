@@ -1,3 +1,3 @@
-# Zig Zag Conversion
+# Reverse Integer
 
-很简单的一道题，就是找规律，不多赘述_(:з」∠)_
+很简单的一道题，重点是要关注int整型的overflow即可。
