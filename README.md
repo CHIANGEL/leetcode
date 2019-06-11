@@ -15,4 +15,5 @@ LeetCode
 |7|[Reverse Integer - 整数反转](https://leetcode.com/problems/reverse-integer/)|[C++](./algorithms/cpp/0007_ReverseInteger/)|Easy|
 |8|[String to Integer (atoi) - 字符串转整数](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](./algorithms/cpp/0008_StringtoInteger%20(atoi)/)|Medium|
 |65|[Valid Number - 有效数字](https://leetcode.com/problems/valid-number/)|[C++](./algorithms/cpp/0065_ValidNumber/)|Hard|
+|822|[Card Flipping Game - 翻转卡片游戏](https://leetcode.com/problems/card-flipping-game/)|[C++](./algorithms/cpp/0822_CardFlippingGame/)|Medium|
 
