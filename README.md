@@ -10,3 +10,5 @@ LeetCode
 |2|[Add Two Numbers - 两数相加](https://leetcode.com/problems/add-two-numbers/) | [C++](./algorithms/cpp/2_AddTwoNumbers/AddTwoNumbers.cpp)|Medium||
 |3|[Longest Substring Without Repeating Characters - 无重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](./algorithms/cpp/3_LongestSubstringWithoutRepeatingCharacters/)|Medium|
 |4|[Median of Two Sorted Arrays - 寻找两个有序数组的中位数](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](./algorithms/cpp/4_MedianofTwoSortedArrays/MedianofTwoSortedArrays.cpp/)|Hard|
+|5|[Longest Palindromic Substring - 最长回文子串](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](./algorithms/cpp/5_LongestPalindromicSubstring/)|Medium|
+|6|[Zig Zag Conversion - Z字形变换](https://leetcode.com/problems/zigzag-conversion/)|[C++](./algorithms/cpp/6_ZigZagConversion/LongestPalindromicSubstring.cpp/)|Easy|
