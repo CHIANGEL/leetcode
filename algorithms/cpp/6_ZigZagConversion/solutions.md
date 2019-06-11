@@ -1,3 +1,3 @@
-# Median of Two Sorted Arrays
+# Zig Zag Conversion
 
-其实就是归并排序的Merge阶段，用一个Vector存储排序结果，然后输出总的排序好的数组的中位数即可
+很简单的一道题，就是找规律，不多赘述_(:з」∠)_
