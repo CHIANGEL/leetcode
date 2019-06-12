@@ -1,7 +1,5 @@
-# Card Flipping Game
+# Flip Equivalent Binary Trees
 
-当时看完这道题目，一时间没有任何的思路。看了题解Hints，大概了解了思路：
+递归解决。首先判断root1和root2是否相同，不同则立刻返回```false```，否则比价两个root的子树是否Flip Equivalent。有两种子树匹配，一种是不flip左左+右右，另一种是flip后的左右+右左，两种匹配只要有一种为真即可。
 
-如果一张card的前后两面的数字一样，那么这个数字就不可能是good number，对这些注定不可能是good number的数字建立一个set集合；而对于两面数字不同的card，某面上的数字X若没有在set集合中出现，那X就肯定可以成为一个good number，因为其他card都可以通过翻转使X不出现在fronts面上。
-
-如此，只需要两次遍历即可，一次建立set集合，一次比较得出答案res。
+递归的基例为```root1 == NULL && root2 == NULL```
