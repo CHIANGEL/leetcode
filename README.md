@@ -15,6 +15,7 @@ LeetCode
 |7|[Reverse Integer - 整数反转](https://leetcode.com/problems/reverse-integer/)|[C++](./leetcode_algorithms/cpp/0007_ReverseInteger/)|Easy|
 |8|[String to Integer (atoi) - 字符串转整数](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](./leetcode_algorithms/cpp/0008_StringtoInteger%20(atoi)/)|Medium|
 |65|[Valid Number - 有效数字](https://leetcode.com/problems/valid-number/)|[C++](./leetcode_algorithms/cpp/0065_ValidNumber/)|Hard|
+|129|[Sum Root to Leaf Numbers - 求根到叶子节点数字之和](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](./leetcode_algorithms/cpp/0129_SumRoottoLeafNumbers/)|Medium|
 |747|[Largest Number At Least Twice of Others - 至少是其他数字两倍的最大数](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[C++](./leetcode_algorithms/cpp/0747_LargestNumberAtLeastTwiceofOthers/)|Easy|
 |762|[Prime Number of Set Bits in Binary Representation - 二进制表示中质数个计算置位](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[C++](./leetcode_algorithms/cpp/0762_PrimeNumberofSetBitsinBinaryRepresentation/)|Easy|
 |822|[Card Flipping Game - 翻转卡片游戏](https://leetcode.com/problems/card-flipping-game/)|[C++](./leetcode_algorithms/cpp/0822_CardFlippingGame/)|Medium|
