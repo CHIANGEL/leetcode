@@ -1,3 +1,1 @@
-# String to Integer(atoi)
-
-很简单的一道题，按照题干一步步来就好。重点还是关于overflow的判定，这和第7题相似。
+﻿# Palindrome Number很简单的一道题，先求x的位数len，然后取出x的后半截，然后和x的前半截比较即可。但是要注意x为负数和x只有个位数的情况，要特判。
