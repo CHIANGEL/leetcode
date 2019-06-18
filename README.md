@@ -6,7 +6,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum - 两数之和](https://leetcode.com/problems/two-sum/) | [C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode/tree/master/leetcode_algorithms/cpp/0001_TwoSum/)|Easy|
+|1|[Two Sum - 两数之和](https://leetcode.com/problems/two-sum/) | [C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0001_TwoSum/)|Easy|
 |2|[Add Two Numbers - 两数相加](https://leetcode.com/problems/add-two-numbers/) | [C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0002_AddTwoNumbers/)|Medium||
 |3|[Longest Substring Without Repeating Characters - 无重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0003_LongestSubstringWithoutRepeatingCharacters/)|Medium|
 |4|[Median of Two Sorted Arrays - 寻找两个有序数组的中位数](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0004_MedianofTwoSortedArrays/)|Hard|
