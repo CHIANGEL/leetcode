@@ -16,6 +16,7 @@ LeetCode
 |8|[String to Integer (atoi) - 字符串转整数](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0008_StringtoInteger%20(atoi)/)|Medium|
 |9|[Palindrome Number - 回文数](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0009_PalindromeNumber)|Easy|
 |15|[3Sum - 三数之和](https://leetcode.com/problems/3sum/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0015_3Sum)|Medium|
+|16|[3Sum Closest - 最接近的三数之和](https://leetcode.com/problems/3sum-closest/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0016_3SumClosest)|Medium|
 |26|[Remove Duplicates from Sorted Array - 删除排序数组中的重复项](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0026_RemoveDuplicatesfromSortedArray)|Easy|
 |65|[Valid Number - 有效数字](https://leetcode.com/problems/valid-number/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0065_ValidNumber/)|Hard|
 |700|[Search in a Binary Search Tree - 二叉搜索树中的搜索](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0700_SearchinaBinarySearchTree/)|Easy|
