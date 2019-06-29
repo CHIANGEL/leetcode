@@ -1,0 +1,1 @@
+﻿# K-diff Pairs in an Array 先对数组vector进行排序，用到了STL中的``sort(First, End)``方法。得到一个单调不减的有序数组后，开始从头遍历。对每一次遍历到的第I个数nums[I]，用STL的``binary_search(First, End)``方法二分查找数 nums[I]+k 是否存在即可。但是有两点注意事项：- 重复的数字只能遍历一次，否则pairs会重复计数- 二分查找不可以从头开始，要从当前I的下一个位置开始。这是为了防止k=0时，几个相同的数相互重复计次。
