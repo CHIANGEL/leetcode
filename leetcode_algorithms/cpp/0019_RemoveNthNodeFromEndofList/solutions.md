@@ -1,19 +1,26 @@
-# Container With Most Water
+# Remove Nth Node From End of List
 
-提供了两种解法
+两次遍历的算法很简单，就是先一次遍历取到列表尾部，然后向前数n个即可。重点是如何构思一次遍历完成的算法！
 
-### 暴力解法
+维护两个指针``p1``和``p2``，一开始两个指针都指向列表的头，然后先让``p1``向尾移动n位，这样``p1``和``p2``就有了n位的差距，然后再让两个指针同时向尾部移动直到``p1``指向尾部，则此时滞后于``p1``n位的``p2``就刚好指向要被删除的倒数第n个数。
 
-两层循环遍历，把每一个可能的container都试一次，复杂度为O(n<sup>2</sup)，勉强没有TLE，也AC了！
-  
-### 优化算法
+在具体的算法实现上，很可能一开始写出来的代码是这样的：
 
-维护两个指针``start``和``end``，分别代表container的左右两边。同时维护``res``来保存最大容水量。
+```
+ListNode* buggy_removeNthFromEnd(ListNode* head, int n) {
+   ListNode* point1 = head;
+   ListNode* point2 = head;
+   int i = 0;
+   for (int i = 0; i <= n && point1 != NULL; ++i)
+     point1 = point1->next;
+   while (point1)
+   {
+     point1 = point1->next;
+     point2 = point2->next;
+   }
+   point2->next = point2->next->next;
+   return head;
+}
+```
 
-初始时，``start``和``end``分别指向数组``nums``的左右两端，之后不断重复以下步骤直到``start>=end``:
-
-1. 以``start``和``end``所在位置构造一个container并更新``res``
-
-2. 比较``nums[start]``与``nums[end]``的大小, 将数值小的那一边的指针向中间移动一格，即``++start``或``--end``
-
-这么更新指针的核心思想在于：container的容量由底边和高决定，底边即``start-end``、高则是``nums[start]``和nums[end]``的最小值。因此当把指针往里面移动的时候，底边一定是减少的，我们需要在“高”上面下功夫，因此必须把“拖后腿”的小数值的指针移动以期望得到一个更好的容量。
+这样的实现方法不能处理``要删除的是head的情况``！但是增加特判会很麻烦，因此可以考虑添加一个超前指针``dummy``，令其指向``head``指针，而``p1``和``p2``指针都指向``dummy``即可，这样子头指针也一样可以删去，返回值为``dummy->next``。
