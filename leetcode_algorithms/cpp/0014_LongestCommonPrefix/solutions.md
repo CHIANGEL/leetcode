@@ -1,3 +1,4 @@
-# Reverse Integer
+# Longest Common Prefix
 
-很简单的一道题，重点是要关注int整型的overflow即可。
+解法比较基础，就是首先一次遍历确定所有字符串的最短长度``min_length``，然后从第一个字符到第``min_length``个字符，一一比较每一个字符串上的对应字符是否全部一样，如果有一个不一样就找到了最长前缀，直接返回。若遍历结束，那么前``min_length``就是最长前缀了。
+
