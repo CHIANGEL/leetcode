@@ -1,26 +1,19 @@
-# Remove Nth Node From End of List
+# Valid Parentheses
 
-两次遍历的算法很简单，就是先一次遍历取到列表尾部，然后向前数n个即可。重点是如何构思一次遍历完成的算法！
+考查对栈的运用，维护一个栈``parStack``，具体算法如下：
 
-维护两个指针``p1``和``p2``，一开始两个指针都指向列表的头，然后先让``p1``向尾移动n位，这样``p1``和``p2``就有了n位的差距，然后再让两个指针同时向尾部移动直到``p1``指向尾部，则此时滞后于``p1``n位的``p2``就刚好指向要被删除的倒数第n个数。
+1. 读入一个新的括号字符``ch``
 
-在具体的算法实现上，很可能一开始写出来的代码是这样的：
+    - 若``ch``为左括号，则将其压入栈中.
+    - 若``ch``为右括号，则查看``parStack.top()``是否与该左括号匹配
+    
+        - 若成功匹配，则执行``parStack.pop()``将匹配上的左括号弹出栈
+        
+        - 若不匹配，则直接返回``false``
+     
+2. 不断读入括号字符并重复上述步骤直到读完括号字符串
 
-```
-ListNode* buggy_removeNthFromEnd(ListNode* head, int n) {
-   ListNode* point1 = head;
-   ListNode* point2 = head;
-   int i = 0;
-   for (int i = 0; i <= n && point1 != NULL; ++i)
-     point1 = point1->next;
-   while (point1)
-   {
-     point1 = point1->next;
-     point2 = point2->next;
-   }
-   point2->next = point2->next->next;
-   return head;
-}
-```
+3. 若成功读完括号字符串，判断``parStack``是否为空
 
-这样的实现方法不能处理``要删除的是head的情况``！但是增加特判会很麻烦，因此可以考虑添加一个超前指针``dummy``，令其指向``head``指针，而``p1``和``p2``指针都指向``dummy``即可，这样子头指针也一样可以删去，返回值为``dummy->next``。
+    - 若为空，则说明所有括号全部成功匹配，返回``true``
+    - 若不为空，则说明有多余的左括号没有被匹配，返回``false``
