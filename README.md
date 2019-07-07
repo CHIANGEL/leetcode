@@ -23,6 +23,7 @@ LeetCode
 |19|[Remove Nth Node From End of List - 删除链表的倒数第N个节点](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0019_RemoveNthNodeFromEndofList)|Medium|
 |20|[Valid Parentheses - 有效的括号](https://leetcode.com/problems/valid-parentheses/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0020_ValidParentheses)|Easy|
 |21|[Merge Two Sorted Lists - 合并两个有序链表](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0021_MergeTwoSortedLists)|Easy|
+|22|[Generate Parentheses - 括号生成](https://leetcode.com/problems/generate-parentheses/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0022_GenerateParentheses)|Medium|
 |26|[Remove Duplicates from Sorted Array - 删除排序数组中的重复项](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0026_RemoveDuplicatesfromSortedArray)|Easy|
 |27|[Remove Element - 移除元素](https://leetcode.com/problems/remove-element/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0027_RemoveElement)|Easy|
 |28|[Implement strStr() - 实现strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0028_ImplementstrStr())|Easy|
