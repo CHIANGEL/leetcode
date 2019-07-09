@@ -29,6 +29,7 @@ LeetCode
 |26|[Remove Duplicates from Sorted Array - 删除排序数组中的重复项](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0026_RemoveDuplicatesfromSortedArray)|Easy|
 |27|[Remove Element - 移除元素](https://leetcode.com/problems/remove-element/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0027_RemoveElement)|Easy|
 |28|[Implement strStr() - 实现strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0028_ImplementstrStr())|Easy|
+|35|[Search Insert Position - 搜索插入位置](https://leetcode.com/problems/search-insert-position/)|[C++](https://github.com/CHIANGEL/leetcode/blob/master/leetcode_algorithms/cpp/0035_SearchInsertPosition/solutions.md)|Easy|
 |65|[Valid Number - 有效数字](https://leetcode.com/problems/valid-number/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0065_ValidNumber/)|Hard|
 |100|[Same Tree - 相同的树](https://leetcode.com/problems/same-tree/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0100_SameTree)|Easy|
 |700|[Search in a Binary Search Tree - 二叉搜索树中的搜索](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0700_SearchinaBinarySearchTree/)|Easy|
