@@ -31,6 +31,7 @@ LeetCode
 |28|[Implement strStr() - 实现strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0028_ImplementstrStr())|Easy|
 |35|[Search Insert Position - 搜索插入位置](https://leetcode.com/problems/search-insert-position/)|[C++](https://github.com/CHIANGEL/leetcode/blob/master/leetcode_algorithms/cpp/0035_SearchInsertPosition/solutions.md)|Easy|
 |65|[Valid Number - 有效数字](https://leetcode.com/problems/valid-number/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0065_ValidNumber/)|Hard|
+|66|[Plus One - 加一](https://leetcode.com/problems/plus-one/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0066_PlusOne)|Easy|
 |100|[Same Tree - 相同的树](https://leetcode.com/problems/same-tree/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0100_SameTree)|Easy|
 |700|[Search in a Binary Search Tree - 二叉搜索树中的搜索](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0700_SearchinaBinarySearchTree/)|Easy|
 |747|[Largest Number At Least Twice of Others - 至少是其他数字两倍的最大数](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0747_LargestNumberAtLeastTwiceofOthers/)|Easy|
