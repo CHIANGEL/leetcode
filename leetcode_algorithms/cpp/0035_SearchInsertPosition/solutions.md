@@ -1,3 +1,3 @@
-# Implement strStr()
+# Search Insert Position
 
-就是很老实的算法，从``haystack``的头开始扫描，如果发现匹配的子串就立即返回对应的位置，若扫描完成都没有发现那就返回-1。
+赤裸裸的二分查找，不解释。
