@@ -1,3 +1,3 @@
-# Search Insert Position
+# Valid Sudoku
 
-赤裸裸的二分查找，不解释。
+非常简单的模拟题。
