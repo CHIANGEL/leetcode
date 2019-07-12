@@ -31,6 +31,7 @@ LeetCode
 |28|[Implement strStr() - 实现strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0028_ImplementstrStr())|Easy|
 |35|[Search Insert Position - 搜索插入位置](https://leetcode.com/problems/search-insert-position/)|[C++](https://github.com/CHIANGEL/leetcode/blob/master/leetcode_algorithms/cpp/0035_SearchInsertPosition)|Easy|
 |36|[Valid Sudoku - 有效的数独](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0036_ValidSudoku)|Medium|
+|46|[Permutations - 全排列](https://leetcode.com/problems/permutations/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0046_Permutations)|Medium|
 |65|[Valid Number - 有效数字](https://leetcode.com/problems/valid-number/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0065_ValidNumber/)|Hard|
 |66|[Plus One - 加一](https://leetcode.com/problems/plus-one/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0066_PlusOne)|Easy|
 |100|[Same Tree - 相同的树](https://leetcode.com/problems/same-tree/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0100_SameTree)|Easy|
