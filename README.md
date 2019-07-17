@@ -45,3 +45,4 @@ LeetCode
 |822|[Card Flipping Game - 翻转卡片游戏](https://leetcode.com/problems/card-flipping-game/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0822_CardFlippingGame/)|Medium|
 |917|[Reverse Only Letters - 仅仅反转字母](https://leetcode.com/problems/reverse-only-letters/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0917_ReverseOnlyLetters/)|Easy|
 |951|[Flip Equivalent Binary Trees - 翻转等价二叉树](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0951_FlipEquivalentBinaryTrees/)|Medium|
+|1038|[Binary Search Tree to Greater Sum Tree - 从二叉搜索树到更大和树](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/1038_BinarySearchTreetoGreaterSumTree)|Medium|
