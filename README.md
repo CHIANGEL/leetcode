@@ -40,6 +40,7 @@ LeetCode
 |100|[Same Tree - 相同的树](https://leetcode.com/problems/same-tree/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0100_SameTree)|Easy|
 |101|[Symmetric Tree - 对称二叉树](https://leetcode.com/problems/symmetric-tree/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0101_SymmetricTree)|Easy|
 |104|[Maximum Depth of Binary Tree - 二叉的最大深度](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0104_MaximumDepthofBinaryTree)|Easy|
+|226|[Invert Binary Tree - 翻转二叉树](https://leetcode.com/problems/invert-binary-tree/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0226_InvertBinaryTree)|Easy|
 |700|[Search in a Binary Search Tree - 二叉搜索树中的搜索](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0700_SearchinaBinarySearchTree/)|Easy|
 |747|[Largest Number At Least Twice of Others - 至少是其他数字两倍的最大数](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0747_LargestNumberAtLeastTwiceofOthers/)|Easy|
 |762|[Prime Number of Set Bits in Binary Representation - 二进制表示中质数个计算置位](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[C++](https://github.com/CHIANGEL/leetcode/tree/master/leetcode_algorithms/cpp/0762_PrimeNumberofSetBitsinBinaryRepresentation/)|Easy|
